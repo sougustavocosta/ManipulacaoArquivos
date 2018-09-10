@@ -1,0 +1,1 @@
+Apenas uma frase de teste com uma quebra de linha aqui. \n Gustavo CostaVerificando qual a possibilidade de criação de novo arquivo com o argumento RUm texto qualquer!
